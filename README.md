@@ -24,7 +24,7 @@ Hello everyone, I am releasing an updated and ATM UI like GTA:O using scaleform,
 
 
 ### Notes:
-* It is compatible with ESX 1.1.0 but very easily updatable
+* It is compatible with ESX 1.2.0
 * All the ATM are present
 
 ### How to install:
