@@ -1,3 +1,5 @@
+THIS CODE IS NOT MINE. ALL CREDITS TO THE ORIGINAL AUTHOR. I JUST EDIT OUTDATED ESX CODE TO MAKE IT COMPATIBLE WITH NEWER VERSION OF ESX
+
 # ATM:UI
 
 Hello everyone, I am releasing an updated and ATM UI like GTA:O using scaleform, working for ESX but easily configurablez
